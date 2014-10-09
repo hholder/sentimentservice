@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentService.ContentRetrieval", "SentimentService.ContentRetrieval\SentimentService.ContentRetrieval.csproj", "{055575EE-66FE-48CC-987B-4EA5A5C82184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{14159B72-4799-4314-8DF9-D10192D34B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055575EE-66FE-48CC-987B-4EA5A5C82184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055575EE-66FE-48CC-987B-4EA5A5C82184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055575EE-66FE-48CC-987B-4EA5A5C82184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055575EE-66FE-48CC-987B-4EA5A5C82184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14159B72-4799-4314-8DF9-D10192D34B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14159B72-4799-4314-8DF9-D10192D34B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14159B72-4799-4314-8DF9-D10192D34B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14159B72-4799-4314-8DF9-D10192D34B92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
